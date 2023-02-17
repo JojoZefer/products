@@ -11,7 +11,10 @@
 		{
 			"id":1,
 			"name": "led diplay",
-			"description": ""
+			"description": "1200x700px",
+			"price": 300,
+			"auther_id": 1,
+			"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png",
 		}
 	]
 }
