@@ -1,0 +1,17 @@
+{
+	"users": [
+	 {
+	 	"id":1,
+	 	"name": "Nikita",
+	 	"photo_url": "https://mediablog.cdnpk.net/sites/6/2021/12/Post-Freepik-Cabecera.jpg"
+	 	"balance": 2000
+	 }	
+	],
+	"products" : [
+		{
+			"id":1,
+			"name": "led diplay",
+			"description": ""
+		}
+	]
+}
