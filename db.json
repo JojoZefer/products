@@ -27,7 +27,7 @@
 			"description": "1200x700px",
 			"price": 300,
 			"auther_id": 1,
-			"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png",
+			"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png"
 
 		},
 		{
@@ -36,7 +36,7 @@
 			"description": "Ardunion Nano v3.0",
 			"price": 320,
 			"auther_id": 5,
-			"photo_url": "https://www.mini-tech.com.ua/image/cache/catalog/arduino/dccduino_nano_1-550x550.jpg",
+			"photo_url": "https://www.mini-tech.com.ua/image/cache/catalog/arduino/dccduino_nano_1-550x550.jpg"
 
 		},
 		{
@@ -45,7 +45,7 @@
 			"description": "kbj3510 100b 35a",
 			"price": 350,
 			"auther_id": 4,
-			"photo_url": "https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg",
+			"photo_url": "https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg"
 
 		},
 		{
@@ -54,7 +54,7 @@
 			"description": "Ardunion UNO pro",
 			"price": 400,
 			"auther_id": 2,
-			"photo_url": "https://beegreen.com.ua/image/cache/catalog/TOVARY/11501_11750/11598/11598-3-800x450.JPG",
+			"photo_url": "https://beegreen.com.ua/image/cache/catalog/TOVARY/11501_11750/11598/11598-3-800x450.JPG"
 
 		},
 		{
@@ -63,7 +63,7 @@
 			"description": "diods line",
 			"price": 420,
 			"auther_id": 3,
-			"photo_url": "https://feron.ua/image/cache/catalog/products/27802/505060ledrgb-750x750.jpg",
+			"photo_url": "https://feron.ua/image/cache/catalog/products/27802/505060ledrgb-750x750.jpg"
 
 		},
 		{
@@ -72,7 +72,7 @@
 			"description": "make you room",
 			"price": 340,
 			"auther_id": 3,
-			"photo_url": "https://5watt.ua/17294-thickbox_default/svetodiodnaya-lenta-b-led-5050-60-rgb-negermetichnaya-1m.jpg",
+			"photo_url": "https://5watt.ua/17294-thickbox_default/svetodiodnaya-lenta-b-led-5050-60-rgb-negermetichnaya-1m.jpg"
 
 		}
 	]
