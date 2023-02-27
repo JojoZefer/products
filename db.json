@@ -1,10 +1,23 @@
 {
+
 	"users": [
 	 {
 	 	"id":1,
 	 	"name": "Nikita",
 	 	"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png",
 	 	"balance": 2000
+	 },
+	  {
+	 	"id":2,
+	 	"name": "Nik",
+	 	"photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/481px-Cat03.jpg",
+	 	"balance": 3000
+	 },
+	  {
+	 	"id":3,
+	 	"name": "Yarik",
+	 	"photo_url": "http://digitalcommunications.wp.st-andrews.ac.uk/files/2019/04/JPEG_compression_Example.jpg",
+	 	"balance": 4000
 	 }	
 	],
 	"products" : [
@@ -14,7 +27,53 @@
 			"description": "1200x700px",
 			"price": 300,
 			"auther_id": 1,
-			"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png"
+			"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png",
+
+		},
+		{
+			"id":2,
+			"name": "led diplay",
+			"description": "Ardunion Nano v3.0",
+			"price": 320,
+			"auther_id": 5,
+			"photo_url": "https://www.mini-tech.com.ua/image/cache/catalog/arduino/dccduino_nano_1-550x550.jpg",
+
+		},
+		{
+			"id":3,
+			"name": "Light diods",
+			"description": "kbj3510 100b 35a",
+			"price": 350,
+			"auther_id": 4,
+			"photo_url": "https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg",
+
+		},
+		{
+			"id":4,
+			"name": "Ardunion UNO",
+			"description": "Ardunion UNO pro",
+			"price": 400,
+			"auther_id": 2,
+			"photo_url": "https://beegreen.com.ua/image/cache/catalog/TOVARY/11501_11750/11598/11598-3-800x450.JPG",
+
+		},
+		{
+			"id":5,
+			"name": "diods",
+			"description": "diods line",
+			"price": 420,
+			"auther_id": 3,
+			"photo_url": "https://feron.ua/image/cache/catalog/products/27802/505060ledrgb-750x750.jpg",
+
+		},
+		{
+			"id":6,
+			"name": "room merch",
+			"description": "make you room",
+			"price": 340,
+			"auther_id": 3,
+			"photo_url": "https://5watt.ua/17294-thickbox_default/svetodiodnaya-lenta-b-led-5050-60-rgb-negermetichnaya-1m.jpg",
+
 		}
 	]
 }
