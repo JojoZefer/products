@@ -37,7 +37,7 @@
 			"name": "led diplay",
 			"description": "Ardunion Nano v3.0",
 			"price": 320,
-			"auther_id": 5,
+			"auther_id": 1,
 			"photo_url": "https://www.mini-tech.com.ua/image/cache/catalog/arduino/dccduino_nano_1-550x550.jpg"
 
 		},
@@ -46,7 +46,7 @@
 			"name": "Light diods",
 			"description": "kbj3510 100b 35a",
 			"price": 350,
-			"auther_id": 4,
+			"auther_id": 2,
 			"photo_url": "https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg"
 
 		},
