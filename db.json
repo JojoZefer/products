@@ -28,7 +28,7 @@
 			"name": "led diplay",
 			"description": "1200x700px",
 			"price": 300,
-			"auther_id": 1,
+			"auther_id": 2,
 			"photo_url": "https://www.screenz.eu/wp-content/uploads/2019/02/iposter-prod_003b.png"
 
 		},
@@ -37,7 +37,7 @@
 			"name": "led diplay",
 			"description": "Ardunion Nano v3.0",
 			"price": 320,
-			"auther_id": 1,
+			"auther_id": 2,
 			"photo_url": "https://www.mini-tech.com.ua/image/cache/catalog/arduino/dccduino_nano_1-550x550.jpg"
 
 		},
@@ -46,7 +46,7 @@
 			"name": "Light diods",
 			"description": "kbj3510 100b 35a",
 			"price": 350,
-			"auther_id": 2,
+			"auther_id": 1,
 			"photo_url": "https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg"
 
 		},
@@ -55,7 +55,7 @@
 			"name": "Ardunion UNO",
 			"description": "Ardunion UNO pro",
 			"price": 400,
-			"auther_id": 2,
+			"auther_id": 1,
 			"photo_url": "https://beegreen.com.ua/image/cache/catalog/TOVARY/11501_11750/11598/11598-3-800x450.JPG"
 
 		},
