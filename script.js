@@ -9,7 +9,7 @@ xhr.onload = function() {
 	products = xhr.response;
 	productsGrid.innerHTML = null;
 	products.forEach(p => {
-		productsArray.push(p);
+		//productsArray.push(p);//
 		let pElem = document.createElement('div');
 		pElem.classList.add('products');
 		pElem.innerHTML = `
